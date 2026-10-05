@@ -2,7 +2,7 @@
 
 Skald is a Nordic and Atmoran themed Skyrim modlist, with a detailed northern landscape, Nordic homes and equipment, expanded character progression, and combat built around movement, blocking and deliberate attacks. It includes a controller preset alongside keyboard and mouse controls.
 
-The world combines Northern Roads and Northern Scenery with Nordic architecture, furnishings, clothing and weapons. The gameplay setup includes True Directional Movement, Valhalla Combat, Precision, dodge support and expanded perk and magic systems. NORDIC UI, QuickLoot and Wheeler provide menus and equipment shortcuts. Frosthavn adds Runa's guidance, journeys into Sovngarde and Tsun's trials as an optional character path.
+The world combines Northern Roads and Northern Scenery with Nordic architecture, furnishings, clothing and weapons. The gameplay setup includes True Directional Movement, Valhalla Combat, Precision, dodge support and expanded perk and magic systems. NORDIC UI, QuickLoot and Wheeler provide menus and equipment shortcuts. [Frosthavn](https://www.nexusmods.com/skyrimspecialedition/mods/194079) adds Runa's guidance, journeys into Sovngarde and Tsun's trials as an optional character path.
 
 ## Release availability
 
