@@ -12,11 +12,13 @@ Before installing Skald, start the Steam game once to complete its normal first-
 
 Choose an empty **Skald Install Folder** and a separate **Downloads Folder**. Use ordinary folders on a local drive, outside Windows, Program Files, the Steam game folder, Desktop, Documents, OneDrive and other synchronized folders. The downloads may be on a different drive from the installation.
 
-The last installation was approximately **180 GB installed**, with approximately **115 GB of remote archives**. Plan for a **115 GB download cache** and **at least 300 GB free at the installation location** for installed files and temporary work, plus the outer download. If these locations share a drive, add the allowances together. This is a provisional planning allowance, not a guaranteed maximum; check the final Main File description before starting. Keeping the downloaded archives makes a later reinstall easier.
+The 1.0.0 installer is approximately **15.28 GB**, the remote mod downloads total about **114.34 GB**, and the installed setup occupies about **177.86 GB**. These sizes use decimal GB.
+
+Allow **115 GB** for the download cache, **at least 300 GB free** at the installation location for installed files and temporary work, and **32 GB** for the outer download and extracted installer. If all three locations share a drive, allow **at least 450 GB free** before starting. These are planning allowances, rather than guaranteed maximums. Keep space for saves and updates. Keeping the downloaded mod archives makes a later reinstall easier.
 
 ## Install the Main File
 
-1. Download and install **Wabbajack** from [its official website](https://www.wabbajack.org/). Use the version identified in the Skald Main File description.
+1. Download **Wabbajack 4.2.3.0** from [its official website](https://www.wabbajack.org/).
 2. Download the current Skald Main File from Nexus.
 3. Extract the outer archive to obtain `Skald.wabbajack`. Keep the supplied instructions with it.
 4. Open Wabbajack and choose **Install From Disk**. Select `Skald.wabbajack`.
@@ -24,7 +26,7 @@ The last installation was approximately **180 GB installed**, with approximately
 6. Complete Wabbajack's Nexus account prompts and start installation. Your Nexus account must have **adult content enabled**. Follow any manual download prompts. Let Wabbajack finish before opening the installed mod organizer.
 7. Continue only when Wabbajack reports that installation succeeded.
 
-Use the Wabbajack version identified in the Main File description. Do not install the outer archive as an ordinary mod or copy it into Skyrim's Data folder.
+Use **Wabbajack 4.2.3.0**, the version used for this installer. Do not install the outer archive as an ordinary mod or copy it into Skyrim's Data folder.
 
 ## Launch the installed setup
 
@@ -34,7 +36,19 @@ Keep the supplied mod priorities, enabled plugins and plugin order. There is no 
 
 ### Why are some plugins unchecked?
 
-Nine included plugins are inactive in the supplied profile: `SkyforgedSteelRemastered.esp`, `Northern Roads - Additional Roads.esp`, `TES Arena Amol.esp`, `Tes Arena NorthKeep.esp`, `TES Blackmoor.esp`, `Tes Granite Hall.esp`, `Tes Pagran Village.esp`, `Tes Vernim Wood.esp` and `WarmongerArmory_LeveledList.esp`. Their presence does not mean that they should be enabled. Keep their supplied inactive state and the rest of the profile's plugin selections.
+Nine included plugins are deliberately inactive. Keep their supplied state.
+
+| Plugin | Why it is inactive in Skald |
+| --- | --- |
+| `SkyforgedSteelRemastered.esp` | Its models are already used through Sentinel; enabling the plugin would add duplicate weapon records. |
+| `Northern Roads - Additional Roads.esp` | Skald does not use this optional roads module. |
+| `TES Arena Amol.esp` | Its town placement and terrain overlap the selected roads and landscape. |
+| `Tes Arena NorthKeep.esp` | Its terrain, road navigation and moved references need further integration. |
+| `TES Blackmoor.esp` | The required landscape and navigation integration is not included. |
+| `Tes Granite Hall.esp` | Its road terrain and Strongholds navigation need further integration. |
+| `Tes Pagran Village.esp` | Its terrain, road references and lighting conflict with the selected setup. |
+| `Tes Vernim Wood.esp` | Its road landscape and USSEP navigation need further integration. |
+| `WarmongerArmory_LeveledList.esp` | Its optional distribution overwrites selected armor and NPC records. The craftable Vanilla/DLC modules remain active. |
 
 ## If installation stops
 

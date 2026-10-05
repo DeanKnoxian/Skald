@@ -2,7 +2,7 @@
 
 Skald is a Nordic and Atmoran themed Skyrim modlist, with a detailed northern landscape, Nordic homes and equipment, expanded character progression, and combat built around movement, blocking and deliberate attacks. It includes a controller preset alongside keyboard and mouse controls.
 
-The world combines Northern Roads and Northern Scenery with Nordic architecture, furnishings, clothing and weapons. The gameplay setup includes True Directional Movement, Valhalla Combat, Precision, dodge support and expanded perk and magic systems. NORDIC UI, QuickLoot and Wheeler provide menus and equipment shortcuts. [Frosthavn](https://www.nexusmods.com/skyrimspecialedition/mods/194079) adds Runa's guidance, journeys into Sovngarde and Tsun's trials as an optional character path.
+The world combines Northern Roads and Northern Scenery with Nordic architecture, furnishings, clothing and weapons. The gameplay setup includes True Directional Movement, Valhalla Combat, Precision, dodge support and expanded perk and magic systems. NORDIC UI, QuickLoot and Wheeler provide menus and equipment shortcuts. [Frosthavn](https://www.nexusmods.com/games/skyrimspecialedition/mods/194079) adds Runa's guidance, journeys into Sovngarde and Tsun's trials as an optional character path.
 
 ## Release availability
 
@@ -12,10 +12,10 @@ The final 1.0.0 installer is being prepared. These instructions describe the int
 
 - A Windows PC and **Skyrim Special Edition on Steam**, with the **Anniversary Upgrade** or Anniversary Edition bundle and its included Creation Club content downloaded. The four free Creations alone are insufficient for this setup.
 - The **English Steam game files at version 1.7.104.0**, which are the current source files used by the installer. Skald uses its own included **1.6.1170.0** runtime for play. Do not manually downgrade the Steam installation to match that included runtime.
-- [**Wabbajack**](https://www.wabbajack.org/) and a **Nexus Mods account with adult content enabled**. Complete the account prompts inside Wabbajack. Follow any manual download prompts it presents.
+- [**Wabbajack 4.2.3.0**](https://www.wabbajack.org/) and a **Nexus Mods account with adult content enabled**. Complete the account prompts inside Wabbajack. Follow any manual download prompts it presents.
 - Enough storage for the installer, downloaded archives, the installed modlist and working space during installation.
 
-The previous installation used approximately **115 GB of remote archives** and **180 GB of installed files**, before the outer download and installation working space. These are provisional decimal GB estimates, not the final Main File sizes. Plan for the **115 GB download cache**, **at least 300 GB free at the installation location** for installed files and temporary work, and space for the outer download. If everything shares a drive, add these allowances together. This is a planning allowance rather than a guaranteed maximum; the final file description will take precedence when it is available.
+The 1.0.0 installer is approximately **15.28 GB**. Installation downloads about **115 GB of mod archives**, and the finished setup occupies about **178 GB**. These sizes use decimal GB. Plan for a **115 GB download cache**, **at least 300 GB free at the installation location** for installed files and temporary work, and **32 GB** for the outer download and extracted installer. If everything shares a drive, allow **at least 450 GB free** before starting. These are planning allowances; saves, updates and additional mods need more space. See [INSTALL.md](INSTALL.md) for folder choices.
 
 This setup is for the English Steam edition. GOG, Epic, Game Pass, VR, other languages and other source versions are not covered by these instructions. A hardware performance target has not yet been published.
 
